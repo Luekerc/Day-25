@@ -1,0 +1,283 @@
+@import 'reset';
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
+title{
+	
+}
+img{
+	height: 2em;
+	width: 2em;
+}
+
+#head {
+	border-bottom: solid rgb(216, 216, 216) 2px;
+	height: 12.5em;
+}
+
+#showcase-container{
+    text-align: center;
+}
+
+#main-logo{
+padding: 3em 0 0 0;
+}
+
+.sea-horse {
+	height: 7em;
+	width: 7em;
+}
+#logo-div{
+	display: inline-block;
+	padding-top: 1.1em;
+	vertical-align: top;
+}
+.logo-text {
+	font-size: 2.25em;
+}
+.logo-subtext{
+	display: block;
+}
+#focus-important{
+	text-align: center;
+	margin: 3em 0 0 2em;
+}
+.banner-heading1 {
+	font-size: 4em;
+	margin-bottom: 0.25em;
+	color: rgb(41, 41, 41);
+}
+.sub-text1{
+	font-size: 2em;
+	color: rgb(41, 41, 41);
+	margin-bottom: 1em;
+}
+.buy-theme{
+	height: 3em;
+	width: 10em;
+	background-color: rgb(69, 140, 200);
+	border-radius: 10px;
+	font-size: 1.3em;
+	color: rgb(255,255,255);
+	margin: 2em 0 0 0 0;
+}
+#showcase-box{
+	margin: 3em 0 0 0;
+}
+.blue-pic{
+	height:7.7em;
+	width: 13.5em;
+}
+.blue-pic2{
+	height:8em;
+	width: 16em;
+}
+.showcase-banner{
+	margin: 1.25em 0 1em 0;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+.showcase-text{
+	font-size: 1.2em;
+	margin-bottom:2.5em;
+}
+.blue-pic3{
+	height:7.7em;
+	width: 16.5em;
+}
+
+#work-portfolio{
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+.gray-text{
+	padding: 0.5em 0 0.75em 0;
+	font-size: 1.5em;
+	color: rgb(170, 170, 170);
+	border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+.project-pic{
+	margin: 3.1em 0 1.5em 0;
+	height: 18.35em;
+	width: 100%;
+}
+
+.project-title{
+	color: rgb(69, 140, 200);
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+.graysub-title{
+	color: rgb(170, 170, 170);
+	font-size: 0.9em;
+	padding-bottom: 1.2em;
+	border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+#satisfied-clients{
+	text-align: left;
+	padding: 6em 0 2em 0;
+	border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+.our-clients{
+	font-size: 1.5em;
+	float: left;
+	padding-left: 4.25em;
+}
+
+.all-satisfied{
+	text-align: left;
+	padding: 0.4em 0 0 14em;
+	width: 20em;
+	color: rgb(170, 170, 170);
+}
+
+#partner-logos{
+	display: block;
+}
+
+.partner{
+	height: 5.75em;
+	width: 11em;
+	float: left;
+	margin: 3.5em 0 0 5em;
+}
+
+.partner1{
+	height: 5.75em;
+	width: 11em;
+	margin: 3.5em 0 4.75em 0;
+}
+
+#footer-container {
+	background-color: rgb(34, 34, 34);
+	height: 3em;
+	clear: both;
+}
+
+.empty-div{
+	height: 3.8em;
+	background-color: rgb(34, 34, 34);
+	border-bottom: black solid 1px;
+}
+
+#twitter-container{
+	background-color: rgb(28,28,28);
+	border-bottom: black solid 1px;
+	height: 21.15em;
+	padding: 0 0 2em 0;
+}
+
+.twitter-logo{
+	height: 5em;
+	width: 5em;
+	padding: 1.75em 0 0 8em;
+}
+.fa-twitter{
+	font-size: 5em;
+	line-height: 5em;
+	padding: 1.75em 0 0 8em;
+	color: rgb(69, 140, 200);
+}
+.twitter-text{
+	height: 6.2em;
+	color: rgb(150,150,150);
+	line-height: 30px;
+	font-size: 1.3em;
+	padding: 1em 0 0 1em;
+	margin: 3.25em 0 0 3em;
+	border-left: 7px solid rgb(150,150,150);
+}
+.link{
+	text-decoration: none;
+	color: rgb(68, 139, 199);
+}
+.leon-art{
+	color: white;
+	font-size: 1.1em;
+	float: left;
+}
+.date{
+	padding-left: 0.25em;
+	float: left;
+	color: rgb(68, 139, 199);
+	font-size: 1.1em;
+}
+#nextto-last{
+	background-color: rgb(34, 34, 34);
+	color: white;
+}
+.about-us{
+	padding: 4em 0 0 1em;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+.contact-text{
+	background-color: rgb(34, 34, 34);
+	padding: 1.75em 0 0 1em;
+	font-size: 1.25em;
+	color: rgb(150,150,150);
+	line-height: 25px;
+}
+.contact-info{
+	padding: 1em 0 0 1em;
+	font-size: 1.25em;
+	color: rgb(150,150,150);
+	line-height: 15px;
+}
+
+#latest-news{
+	padding-left: 1em;
+}
+.latest-news{
+	padding: 4em 0 0 0;
+	font-size: 1.4em;
+	font-weight: bold; 
+}
+#row-one{
+	padding: 2em 0 0 0;
+}
+
+.window-desk{
+	height: 5.6em;
+	width: 5.6em;
+	border-radius: 10px 0 0 10px;
+}
+
+#media-box{
+	display: inline-block;
+	margin-bottom: 2em;
+	vertical-align: top;
+	margin-right: 2em;
+}
+.media-heading{
+	font-size: 1.25em;
+	color: rgb(68, 139, 199);
+}
+
+#date-box{
+	display: inline-block;
+	font-size: 1.75em;
+	text-align: right;
+	font-weight: bold;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	background-color: rgb(0,0,0);
+	border-left: 1px solid rgb(68, 139, 199);
+	vertical-align: top;
+}
+
+#flickr-feed{
+
+}
+
+#very-bottom{
+	background-color: rgb(17,17,17);
+	color: white;
+}
